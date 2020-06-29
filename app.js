@@ -1,2 +1,2 @@
 console.log('master');
-console.log('f2');
+console.log('f1');
